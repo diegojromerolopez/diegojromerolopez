@@ -16,5 +16,6 @@ My name is Diego J. and I'm a software engineer from Spain, currently based on M
   - [Gelidum](https://github.com/diegojromerolopez/gelidum) 🧊 🐍
   - [Django-Async-Include](https://github.com/diegojromerolopez/django-async-include)
   - [Django-WS-Include](https://github.com/diegojromerolopez/django-ws-include)  
+  - [backgroundlog](https://github.com/diegojromerolopez/backgroundlog) :pencil2:
   - [DJBDD](https://github.com/diegojromerolopez/djbdd) 🌳
 - If you like any of [my projects](https://github.com/diegojromerolopez?tab=repositories) and would like to make me a donation ☕ [use my paypal.me page](https://www.paypal.com/paypalme/diegojromerolopez) (if you don't want to use paypal, contact me!)
