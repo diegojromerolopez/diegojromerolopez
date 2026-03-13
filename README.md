@@ -19,5 +19,7 @@ My name is Diego J. Romero-Lopez and I'm a software engineer from Spain, current
   - [backgroundlog](https://github.com/diegojromerolopez/backgroundlog) :pencil2:
   - [otelize](https://github.com/diegojromerolopez/otelize) :satellite:
   - [mypy-pure](https://github.com/diegojromerolopez/mypy-pure) 💧
+  - [mypy-raise](https://github.com/diegojromerolopez/mypy-raise) ⚡
+  - [Oinakos](https://github.com/diegojromerolopez/oinakos) ([demo](https://diegojromerolopez.github.io/oinakos/index.html)) 🗡️
   - [DJBDD](https://github.com/diegojromerolopez/djbdd) 🌳
 - If you like any of [my projects](https://github.com/diegojromerolopez?tab=repositories) and would like to make me a donation ☕ [use my paypal.me page](https://www.paypal.com/paypalme/diegojromerolopez) (if you don't want to use paypal, contact me!)
