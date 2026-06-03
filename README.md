@@ -5,7 +5,7 @@ My name is Diego J. Romero-Lopez and I'm a software engineer from Spain, current
 - I don't have a favorite programming language, but I like working with Python 🐍.
 - I accept suggestions, issues, feature requests, crazy ideas and even a good conversation about my projects. I love feedback!
 - You can reach me in many places:
-  - [My LinkedIn profile](https://www.linkedin.com/in/diegojromerolopez/).
+  - [My LinkedIn profile](https://www.linkedin.com/in/diegojromerolopez/)
   - [My Hacker News user](https://news.ycombinator.com/user?id=diegojromero)
   - [My reddit user](https://www.reddit.com/user/diegojromerolopez)
   - [My X (ex-twitter) user](https://twitter.com/diegojromerolop)
